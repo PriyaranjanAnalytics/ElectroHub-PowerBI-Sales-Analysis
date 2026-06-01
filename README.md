@@ -3,6 +3,13 @@
 ## Project Overview
 This Power BI project analyzes sales performance, profit trends, product performance, promotions, and regional sales insights for ElectroHub.
 
+<img width="100%" alt="Dashboard" src="https://github.com/PriyaranjanAnalytics/ElectroHub-PowerBI-Sales-Analysis/blob/main/Screenshot%202026-06-02%20004339.png">
+<img width="100%" alt="Dashboard" src="https://github.com/PriyaranjanAnalytics/ElectroHub-PowerBI-Sales-Analysis/blob/main/Screenshot%202026-06-02%20004355.png">
+<img width="100%" alt="Dashboard" src="https://github.com/PriyaranjanAnalytics/ElectroHub-PowerBI-Sales-Analysis/blob/main/Screenshot%202026-06-02%20004404.png">
+
+
+
+
 ## Tools Used
 - Power BI
 - Power Query
